@@ -1,0 +1,70 @@
+#link{
+    font-size: 20px;
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+.s{
+    text-decoration: none;
+}
+div > img{
+    height:90px;
+    width:270px;
+    margin-top: 60px;
+    margin-left: 450px;
+}
+input[name="q"]{
+    border-color: blue;
+    border-width: 0.5px;
+    height:35px;
+    width:480px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px ;
+    padding-bottom: 5px;
+    padding-left: 24px;
+    padding-right: 20px;
+    margin-left: 330px;
+    margin-top: 20px; 
+    border-radius: 40px 40px 40px 40px;
+}
+
+input[value="Google Search"]{
+    border:0.1px;
+    background-color:ghostwhite;
+    height:40px;
+    width:120px;
+    margin-top:25px;
+    margin-left: 450px;
+    margin-right: 10px;
+    border-radius: 2px 2px 2px 2px; 
+}
+input[value]:hover {
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}   
+input[value="I am feeling lucky"]{
+    border:0.1px;
+    background-color:ghostwhite; 
+    height:40px;
+    width:150px;
+    border-radius: 2px 2px 2px 2px;
+}
+
+input[type="submit"]:hover{
+    border-style: solid;
+}
+#lang{
+    text-align: center;
+    margin : 18px 0px;
+}
+#lang > a{
+    /*border: 2px solid red;*/
+    display: inline;
+    width:100vw;
+    text-decoration: none;
+    padding:1px 4px;
+}

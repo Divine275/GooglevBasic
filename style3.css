@@ -1,0 +1,53 @@
+img[src="googleBlank.png"]{
+    width:106px;
+    height:37px;
+    margin-top: 7px;
+    margin-left: 10px;
+    background-color:gainsboro;
+}
+
+a{
+    margin-top: 100px;
+    padding-left:1000px;
+    font-size: 18px;
+}
+
+input[type="text"]{
+    margin-left: 20px;
+    padding-left: 10px;
+    width:550px;
+    height:28px;
+
+}
+
+#heading{
+    padding-top:5px;
+    color:#D93025;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+/*All boxes and text beside it*/
+tr{
+    font-size: 18px;
+    height:28.98px;
+    width: 310.92px;
+}
+
+
+input[value="Advanced Search"]{
+    color:azure;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    border:0.1px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left:432px;
+    /* margin: 10px auto; */
+    padding:0.1px;
+    background-color: #4d90fe;
+    width:155px;
+    height:35px;
+    border-radius: 2px 2px 2px 2px;
+}
